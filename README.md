@@ -1,4 +1,7 @@
-# teeshirtz_app
+# Tshirtz
+
+## Demo
+https://tshirtz.lauriannel.now.sh/
 
 ## Project setup
 ```
@@ -29,4 +32,3 @@ npm run lint
 ```
 npm run test:unit
 ```
-# tshirtz
